@@ -21,5 +21,4 @@ This project provided valuable insights into the complexities of mobile robot lo
 
 ## Team
 - **Beatriz Paulo** - IST ID: 102823
-- **Leonor Fortes** - IST ID: 102695
-- **Tiago Valente** - IST ID: 100370
+- Other 2 colleagues
