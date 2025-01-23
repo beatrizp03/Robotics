@@ -9,7 +9,6 @@ This project explores the fundamentals of robotics, focusing on **localization**
 
 ## Project Resources
 - **Report**: [Access the detailed project report](./Report_Group19.pdf)
-- **Dataset and Files**: [Google Drive Link](https://drive.google.com/drive/folders/12Hp-9toPC-4f2T2yw4tT2JyUPnE3aj75?usp=sharing)
 - **Source Code**: Available in this repository.
 
 ---
@@ -20,5 +19,5 @@ This project provided valuable insights into the complexities of mobile robot lo
 ---
 
 ## Team
-- **Beatriz Paulo** 
-- Other 2 colleagues
+- **Beatriz Paulo** - @beatrizp03 (github)
+- **Tiago Valente** - @TiagoVal (github)
