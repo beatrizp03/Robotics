@@ -21,3 +21,4 @@ This project provided valuable insights into the complexities of mobile robot lo
 ## Team
 - **Beatriz Paulo** - @beatrizp03 (github)
 - **Tiago Valente** - @TiagoVal (github)
+- **Leonor Fortes** - @leonorf03 (github)
