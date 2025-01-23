@@ -20,5 +20,5 @@ This project provided valuable insights into the complexities of mobile robot lo
 ---
 
 ## Team
-- **Beatriz Paulo** - IST ID: 102823
+- **Beatriz Paulo** 
 - Other 2 colleagues
